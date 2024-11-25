@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+header{
+text-align:center;
+font-family: "New Amsterdam", sans-serif;
+font-size: 150px; 
+color: rgb(255, 0, 0);
+}
+
+h1 {
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+color: rgb(0, 0, 0);
+background-color: red;
+text-align: center;
+
+}
+h2 {
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    
+}
+h3{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row {
+    display: flex;
+    justify-items: center;
+}
+.margin {
+    margin-right: -100px;
+}
+
